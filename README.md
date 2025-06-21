@@ -18,3 +18,6 @@ This project has been developed as part of a Compiler Design internship assignme
 
 The program accepts arithmetic expressions as input from the user via the command line, parses them using a recursive descent parser, and then evaluates them to return the result. The parser respects mathematical rules such as BODMAS (Brackets, Orders, Division/Multiplication, Addition/Subtraction), allowing proper grouping with parentheses and supporting both integer and floating-point values.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/40c26dd0-cb12-4a88-868e-5498240c5366)
